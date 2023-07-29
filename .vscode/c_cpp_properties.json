@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "MacOS",
+      "cppStandard": "c++20",
+      "macFrameworkPath": [
+        "/System/Library/Frameworks",
+        "/Library/Frameworks"
+      ],
+      "intelliSenseMode": "macos-clang-x64",
+      "compilerPath": "/usr/bin/clang",
+      "cStandard": "c23"
+    }
+  ],
+  "version": 4
+}
